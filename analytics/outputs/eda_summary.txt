@@ -1,0 +1,31 @@
+TITANIC DATASET - EDA SUMMARY
+========================================
+
+Final dataset shape: (889, 13)
+
+Age statistics:
+Q1: 22.00
+Q3: 35.00
+IQR: 13.00
+Age outliers: 65
+
+Fare statistics:
+Mean: 32.10
+Median: 14.45
+Mode: [8.05]
+Fare Q1: 7.90
+Fare Q3: 31.00
+Fare IQR: 23.10
+Fare outliers: 114
+Fare skewness: 4.8014
+
+Survival by sex:
+sex
+female    74.04
+male      18.89
+
+Survival by passenger class:
+pclass
+1    62.62
+2    47.28
+3    24.24
